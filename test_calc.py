@@ -13,4 +13,4 @@ class TestCalc:
 
     def test_add_numbers(self):
         result = calc.add_numbers(10, 5)
-        assert result == 15
+        assert result == 14
